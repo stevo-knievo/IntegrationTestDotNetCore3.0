@@ -5,9 +5,9 @@ This repo contains a super simple web API which is using the entity framework co
 ## Branches
 This repo includes two branches. The core-2.2 branches contain a working version base on the .NET Core 2.2. The master branch contains an updated version to .NET Core 3.0. In which the integration test won't pass.
 
-- master: ASP.NET Core 3.0
-- core-2.2: ASP.NET Core 2.2
-
+- master: ASP.NET Core 3.0 (not working)
+- core-2.2: ASP.NET Core 2.2 (working)
+- daily-builds: ASP.NET Core 3.0.100-rc2-014216 (not working)
 
 ## Application
 
